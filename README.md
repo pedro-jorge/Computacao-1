@@ -1,3 +1,1 @@
-# Sudoku game in C
-Simple sudoku game written in C, playing in terminal/cmd. <br/>
-Final work from Computer Programming I, UFRJ
+### Implementação em C do jogo Sudoku, projeto final da disciplina de Computação I da UFRJ (atualmente chamada de Programação de Computadores I)
